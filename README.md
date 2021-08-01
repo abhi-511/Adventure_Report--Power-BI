@@ -1,17 +1,12 @@
 # Adventure_Report-Dashboard
 Power-BI Dashboard Project.
 
-Adventure Dashboard using Power BI.
-
+Dashboard using Power BI.
 Here's a Data-Analysis project of products sales of particular shop using Power-BI.
 
 
 # These are some Screenshot of Sales Report.
-<img src="https://github.com/abhi-511/Sales-Dashboard/blob/main/ScreenShots/S1.png" alt="alt text" height=300 width="500"/>         <img src="https://github.com/abhi-511/Sales-Dashboard/blob/main/ScreenShots/S2.png" alt="drawing"  height=300 width="500"/>
-
-# These are the screenshot of mobile-layout.
-<img src="https://github.com/abhi-511/Sales-Dashboard/blob/main/ScreenShots/S3.png" alt="drawing"  height=300 width="500"/>         <img src="https://github.com/abhi-511/Sales-Dashboard/blob/main/ScreenShots/S4.png" alt="drawing"  height=300 width="500"/>         
-
+<img src="https://github.com/abhi-511/Adventure_Report--Power-BI/blob/main/S1.png" alt="alt text" height=300 width="500"/>
 
 Please do ⭐ the repository, if you like this.😊
 
