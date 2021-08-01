@@ -5,7 +5,7 @@ Dashboard using Power BI.
 Here's a Data-Analysis project of products sales of particular shop using Power-BI.
 
 
-# These are some Screenshot of Sales Report.
+# Here's a screenshot of the DashBoard.
 <img src="https://github.com/abhi-511/Adventure_Report--Power-BI/blob/main/S1.png" alt="alt text" height=300 width="500"/>
 
 Please do ⭐ the repository, if you like this.😊
